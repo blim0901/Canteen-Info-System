@@ -1,0 +1,8 @@
+Mon,Tue,Wed,Thu,Fri,Sat,Sun|08:00-21:30
+2.0
+Roasted Duck Rice&$3.30&Mon|08:20-08:30
+Roasted Duck Noodle&$3.30&ALL
+Char Siew Rice&$2.80&ALL
+Char Siew Noodle&$2.80&ALL
+Roasted Meat Rice&$2.80&ALL
+Char Siew Roasted Meat Noodle&$4.00&ALL

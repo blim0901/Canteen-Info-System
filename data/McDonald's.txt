@@ -1,0 +1,10 @@
+Mon,Tue,Wed,Thu,Fri,Sat,Sun|07:00-24:00
+3.2
+Coke&$1.00&Mon,Tue,Wed,Thu,Fri,Sat,Sun|07:00-10:00
+The Original Angus&$8.50&ALL
+Classic Angus Cheese&$11.50&ALL
+Big Mac&$7.85&ALL
+Double Cheeseburger&$6.65&ALL
+McChicken&$5.95&ALL
+McSpicy&$7.70&ALL
+Double McSpicy&$9.55&ALL

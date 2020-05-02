@@ -1,0 +1,9 @@
+Mon,Tue,Wed,Thu,Fri,Sat,Sun|08:00-21:30
+0.8
+Pho Beef Kway Teow Soup&$5.00&ALL
+Grilled Chicken Rice&$4.80&ALL
+Spicy Beef Noodle&$4.80&ALL
+Grilled Pork Rice&$4.80&ALL
+Grilled Meat Noodle&$4.80&ALL
+Meat Roll&$4.80&ALL
+Chicken Kway Teow Soup&$4.80&ALL

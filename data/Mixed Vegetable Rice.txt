@@ -1,0 +1,5 @@
+Mon,Tue,Wed,Thu,Fri|12:30-16:30
+10
+Fish&$1.30&Mon,Tue,Wed,Thu,Fri|12:30-13:00
+Rice&$1.30&ALL
+Beef&$0.80&ALL

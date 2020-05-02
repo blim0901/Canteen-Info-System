@@ -1,0 +1,11 @@
+Mon,Tue,Wed,Thu,Fri,Sat,Sun|08:30-19:00
+0.2
+Barbeque Pulled Pork&$6.00&ALL
+Philly Cheesesteak&$7.00&ALL
+Mexicana Grilled Chicken&$6.00&ALL
+Peri Peri Chicken&$6.00&ALL
+Cubano&$7.00&ALL
+Cowboy Burger&$8.00&ALL
+Roast Beef&$7.00&ALL
+The MLT (Veg)&$6.00&ALL
+Roasted Eggplant and Cheese&$7.00&ALL
